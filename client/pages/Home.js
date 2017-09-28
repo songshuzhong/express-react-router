@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default React.createClass({
+export default () => ({
   render() {
     return <div>Home</div>
   }
