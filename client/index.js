@@ -6,4 +6,4 @@ import routes from './pages/routes'
 render(
   <Router routes={routes} history={browserHistory}/>,
   document.getElementById('app')
-)
+);

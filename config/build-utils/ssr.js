@@ -27,7 +27,7 @@ const serverSideRender = ( req, res ) => (
 );
 
 const APP_HEADER = () => (
-  "<!doctype html public='storage'><html><meta charset=utf-8/><head><title>My First React Router App</title></head><body><div id='app' />"
+  "<!doctype html public='storage'><html><meta charset=utf-8/><head><title>My First React Router App</title></head><body><div id='app' /><div id='portal' />"
 );
 
 const APP_FOOTER = () => (
